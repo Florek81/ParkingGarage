@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcc48ded-e07b-45fd-910d-da6a2a0a5713" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParkingGarage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingGarageSimulation/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingGarageSimulation/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingGarageSimulation/ParkingGarage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingGarageSimulation/ParkingGarageSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParkingGarageSimulation/Vehicle.java" afterDir="false" />
+    <list default="true" id="dcc48ded-e07b-45fd-910d-da6a2a0a5713" name="Changes" comment="Newest Version of my ParkingGarage JAVA Program">
+      <change afterPath="$PROJECT_DIR$/src/org/florek81/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/florek81/ParkingSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/florek81/ParkingSimulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +24,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectId" id="2RqBtIRARmMUIp7YwxSivRyRuzX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,6 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "project.structure.last.edited": "Project",
@@ -53,7 +47,7 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.org.florek81.ParkingSimulation">
     <configuration name="ParkingSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ParkingGarageSimulation.ParkingSimulation" />
       <module name="ParkingGarage" />
@@ -67,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.florek81.ParkingSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.florek81.ParkingSimulation" />
+      <module name="ParkingGarage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.florek81.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.florek81.ParkingSimulation" />
         <item itemvalue="Application.ParkingSimulation" />
       </list>
     </recent_temporary>
@@ -82,6 +90,38 @@
       <option name="presentableId" value="Default" />
       <updated>1687967945676</updated>
     </task>
+    <task id="LOCAL-00001" summary="Newest Version of my ParkingGarage JAVA Program">
+      <option name="closed" value="true" />
+      <created>1687978409175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687978409175</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Newest Version of my ParkingGarage JAVA Program">
+      <option name="closed" value="true" />
+      <created>1687978588181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687978588181</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Newest Version of my ParkingGarage JAVA Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Newest Version of my ParkingGarage JAVA Program" />
   </component>
 </project>
