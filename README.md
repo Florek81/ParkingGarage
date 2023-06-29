@@ -1,2 +1,2 @@
 # ParkingGarage
-A short coding example for a internship
+A short coding example for an internship
